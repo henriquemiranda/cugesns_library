@@ -1,0 +1,637 @@
+[PROLOGUE] Starting prologue on node node0830 at date Wed Oct 18 09:23:47 CEST 2017
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FB7E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FB7E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000033A1E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003775A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003775A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003B58C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          000000323081ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          000000323081ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          000000360681ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000034BD41ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-014/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003C81C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+
+------------------------------- PBS server and MOM logs ------------------------------- 
+
+
+------------------frontal2.cenaero.be------------------
+
+Job: 1474166.frontal2
+
+10/18/2017 09:23:41  S    enqueuing into main, state 1 hop 1
+10/18/2017 09:23:41  S    dequeuing from main, state 1
+10/18/2017 09:23:41  S    enqueuing into main_has, state 1 hop 1
+10/18/2017 09:23:41  S    Job Queued at request of hpereira@frontal3, owner = hpereira@frontal3, job name = vasp14, queue = main_has
+10/18/2017 09:23:41  A    queue=main
+10/18/2017 09:23:41  A    queue=main_has
+10/18/2017 09:23:46  L    Considering job to run
+10/18/2017 09:23:46  L    Job run
+10/18/2017 09:23:46  A    user=hpereira group=2016038_HPCZENOBE_ULUX project=generic jobname=vasp14 queue=main_has ctime=1508311421 qtime=1508311421 etime=1508311421 start=1508311426 exec_host=node0830/9+node0830/10+node0830/11+node0830/12+node0830/13+node0830/14+node0830/15+node0830/16+node0830/17+node0675/1+node0675/4+node0675/6+node0675/12+node0675/13+node0675/14+node0675/15+node0675/16+node0675/17+node0675/18+node0675/19+node0675/20+node0675/21+node0675/22+node0675/23+node0711/0+node0711/1+node0711/3+node0711/4+node0711/5+node0711/6+node0711/7+node0711/8+node0711/9+node0711/17+node0711/18+node0711/19+node0711/20+node0711/21+node0711/22+node0711/23+node0628/3+node0622/5+node0622/6+node0631/3+node0631/4+node0618/3+node0618/4+node0634/3 exec_vnode=(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0830:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0675:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0711:mem=2688000kb:ncpus=1)+(node0628:mem=2688000kb:ncpus=1)+(node0622:mem=2688000kb:ncpus=1)+(node0622:mem=2688000kb:ncpus=1)+(node0631:mem=2688000kb:ncpus=1)+(node0631:mem=2688000kb:ncpus=1)+(node0618:mem=2688000kb:ncpus=1)+(node0618:mem=2688000kb:ncpus=1)+(node0634:mem=2688000kb:ncpus=1) Resource_List.mem=126000mb Resource_List.mem_pnode=63000mb Resource_List.model=haswell_fit Resource_List.mpiprocs=48 Resource_List.ncpus=48 Resource_List.ncpus_pnode=24 Resource_List.nodect=48 Resource_List.place=free Resource_List.rncpus=48 Resource_List.select=48:mem=2625MB Resource_List.walltime=05:00:00 resource_assigned.mem=129024000kb resource_assigned.ncpus=48
+10/18/2017 09:24:07  S    delete job request received
+10/18/2017 09:24:07  S    Request invalid for state of job, state=5
+
+------------------node0830------------------
+
+Job: 1474166.frontal2
+
+10/18/2017 09:23:47  M    task 24000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:47  M    running prologue
+10/18/2017 09:23:47  M    no active tasks
+10/18/2017 09:23:47  M    Started, pid = 10206
+10/18/2017 09:23:51  M    task 00000001 terminated
+10/18/2017 09:23:51  M    Terminated
+10/18/2017 09:23:51  M    no active tasks
+10/18/2017 09:23:51  M    task 00000001 cput= 0:00:09
+10/18/2017 09:23:51  M    node0830 cput= 0:00:00 mem=0kb
+10/18/2017 09:23:51  M    node0675 cput= 0:00:08 mem=249756kb
+10/18/2017 09:23:51  M    node0711 cput= 0:00:09 mem=260224kb
+10/18/2017 09:23:51  M    node0628 cput= 0:00:00 mem=32196kb
+10/18/2017 09:23:51  M    node0622 cput= 0:00:01 mem=53904kb
+10/18/2017 09:23:51  M    node0631 cput= 0:00:01 mem=45172kb
+10/18/2017 09:23:51  M    node0618 cput= 0:00:01 mem=45168kb
+10/18/2017 09:23:51  M    node0634 cput= 0:00:00 mem=23980kb
+10/18/2017 09:23:51  M    update_job_usage: CPU usage: 9.085 secs
+10/18/2017 09:23:51  M    update_job_usage: Memory usage: mem=176084kb
+10/18/2017 09:23:51  M    update_job_usage: Memory usage: vmem=176084kb
+10/18/2017 09:23:52  M    no active tasks
+10/18/2017 09:23:52  M    copy file request received
+10/18/2017 09:23:52  M    staged 1 items out over 0:00:00
+10/18/2017 09:23:52  M    no active tasks
+10/18/2017 09:23:52  M    delete job request received
+
+------------------node0618------------------
+
+
+10/18/2017 09:23:47  M    JOIN_JOB as node 6
+10/18/2017 09:23:47  M    task 18000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 18000001 terminated
+10/18/2017 09:23:51  M    KILL_JOB received
+10/18/2017 09:23:51  M    task 18000001 cput= 0:00:01
+10/18/2017 09:23:52  M    no active tasks
+
+------------------node0622------------------
+
+
+10/18/2017 09:23:47  M    JOIN_JOB as node 4
+10/18/2017 09:23:47  M    task 10000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 10000001 terminated
+10/18/2017 09:23:51  M    KILL_JOB received
+10/18/2017 09:23:51  M    task 10000001 cput= 0:00:01
+10/18/2017 09:23:52  M    no active tasks
+10/18/2017 09:24:13  M    no active tasks
+
+------------------node0628------------------
+
+
+10/18/2017 09:23:47  M    JOIN_JOB as node 3
+10/18/2017 09:23:47  M    task 0C000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 0C000001 terminated
+10/18/2017 09:23:51  M    KILL_JOB received
+10/18/2017 09:23:51  M    task 0C000001 cput= 0:00:00
+10/18/2017 09:23:52  M    no active tasks
+10/18/2017 09:24:05  M    no active tasks
+
+------------------node0631------------------
+
+
+10/18/2017 09:23:47  M    JOIN_JOB as node 5
+10/18/2017 09:23:47  M    task 14000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 14000001 terminated
+10/18/2017 09:23:51  M    KILL_JOB received
+10/18/2017 09:23:51  M    task 14000001 cput= 0:00:01
+10/18/2017 09:23:52  M    no active tasks
+
+------------------node0634------------------
+
+
+10/18/2017 09:23:47  M    JOIN_JOB as node 7
+10/18/2017 09:23:47  M    task 1C000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 1C000001 terminated
+10/18/2017 09:23:51  M    KILL_JOB received
+10/18/2017 09:23:51  M    task 1C000001 cput= 0:00:00
+10/18/2017 09:23:52  M    no active tasks
+10/18/2017 09:23:57  M    no active tasks
+10/18/2017 09:24:14  M    no active tasks
+10/18/2017 09:24:29  M    no active tasks
+
+------------------node0675------------------
+
+
+10/18/2017 09:23:47  M    JOIN_JOB as node 1
+10/18/2017 09:23:47  M    task 04000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 04000001 terminated
+10/18/2017 09:23:51  M    KILL_JOB received
+10/18/2017 09:23:51  M    task 04000001 cput= 0:00:08
+10/18/2017 09:23:52  M    no active tasks
+
+------------------node0711------------------
+
+
+10/18/2017 09:23:47  M    JOIN_JOB as node 2
+10/18/2017 09:23:47  M    task 08000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 08000001 terminated
+10/18/2017 09:23:51  M    KILL_JOB received
+10/18/2017 09:23:51  M    task 08000001 cput= 0:00:09
+10/18/2017 09:23:52  M    no active tasks
+
+
+------------------------------- Job Information ------------------------------- 
+
+Job Owner       : hpereira@frontal3 
+Job Project     : 2016038_HPCZENOBE_ULUX 
+Job Name        : vasp14 
+Job Id          : 1474166.frontal2 
+Job Queue       : main_has 
+Job Exit Status : 0 
+
+Resources Requested 
+
+Number of Cores per Job                - NCPUS_PJOB  : 48
+Total Memory per Job                   - MEM_PJOB    : 126000mb
+Placement                                            : free
+Execution Time                         - WALLTIME    : 05:00:00
+
+Resources Used 
+
+Total Memory used                      - MEM              : 886484kb
+Total CPU Time                         - CPU_Time         : 00:00:29
+Execution Time                         - Wall_Time        : 00:00:07
+Ncpus x Execution Time                 - N_Wall_Time      : 0:05:36
+CPU_Time / N_Wall_Time (%)             - ETA              : 8%
+Number of Mobilized Resources per Job  - NCPUS_EQUIV_PJOB : 48
+Mobilized Resources x Execution Time   - R_Wall_Time      : 0:05:36
+CPU_Time / R_Wall_Time (%)             - ALPHA            : 8%
+
+For metrics definition, please refer to https://tier1.cenaero.be/en/faq-page 
+
+------------------------------------------------------------------------------- 
+

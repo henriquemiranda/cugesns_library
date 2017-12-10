@@ -1,0 +1,297 @@
+[PROLOGUE] Starting prologue on node node0781 at date Wed Oct 18 09:23:46 CEST 2017
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 10, file /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002/POTCAR
+Image              PC                Routine            Line        Source             
+vasp               000000000530B756  Unknown               Unknown  Unknown
+vasp               000000000532053B  Unknown               Unknown  Unknown
+vasp               0000000000598761  Unknown               Unknown  Unknown
+vasp               000000000044D385  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000032A9C1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+
+------------------------------- PBS server and MOM logs ------------------------------- 
+
+
+------------------frontal2.cenaero.be------------------
+
+Job: 1474154.frontal2
+
+10/18/2017 09:23:40  S    enqueuing into main, state 1 hop 1
+10/18/2017 09:23:40  S    dequeuing from main, state 1
+10/18/2017 09:23:40  S    enqueuing into main_has, state 1 hop 1
+10/18/2017 09:23:40  S    Job Queued at request of hpereira@frontal3, owner = hpereira@frontal3, job name = vasp2, queue = main_has
+10/18/2017 09:23:40  A    queue=main
+10/18/2017 09:23:40  A    queue=main_has
+10/18/2017 09:23:45  L    Considering job to run
+10/18/2017 09:23:45  L    Job run
+10/18/2017 09:23:46  A    user=hpereira group=2016038_HPCZENOBE_ULUX project=generic jobname=vasp2 queue=main_has ctime=1508311420 qtime=1508311420 etime=1508311420 start=1508311426 exec_host=node0781/1+node0781/2+node0786/10+node0786/11+node0793/3+node0793/4+node0779/2+node0779/3+node0779/8+node0779/9+node0783/3+node0783/4+node0783/10+node0783/11+node0787/6+node0787/7+node0787/8+node0787/9+node0789/2+node0789/3+node0789/4+node0789/9+node0780/2+node0780/3+node0780/4+node0780/5+node0780/6+node0780/7+node0780/8+node0780/9+node0782/1+node0782/10+node0782/11+node0782/12+node0782/13+node0782/14+node0782/15+node0782/16+node0790/2+node0790/10+node0790/11+node0790/12+node0790/13+node0790/14+node0790/15+node0790/16+node0794/0+node0794/3 exec_vnode=(node0781:mem=2688000kb:ncpus=1)+(node0781:mem=2688000kb:ncpus=1)+(node0786:mem=2688000kb:ncpus=1)+(node0786:mem=2688000kb:ncpus=1)+(node0793:mem=2688000kb:ncpus=1)+(node0793:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0794:mem=2688000kb:ncpus=1)+(node0794:mem=2688000kb:ncpus=1) Resource_List.mem=126000mb Resource_List.mem_pnode=63000mb Resource_List.model=haswell_fit Resource_List.mpiprocs=48 Resource_List.ncpus=48 Resource_List.ncpus_pnode=24 Resource_List.nodect=48 Resource_List.place=free Resource_List.rncpus=48 Resource_List.select=48:mem=2625MB Resource_List.walltime=05:00:00 resource_assigned.mem=129024000kb resource_assigned.ncpus=48
+10/18/2017 09:24:00  S    delete job request received
+10/18/2017 09:24:00  S    Request invalid for state of job, state=5
+
+------------------node0781------------------
+
+Job: 1474154.frontal2
+
+10/18/2017 09:23:46  M    no active tasks
+10/18/2017 09:23:46  M    running prologue
+10/18/2017 09:23:46  M    Started, pid = 4785
+10/18/2017 09:23:49  M    task 00000001 terminated
+10/18/2017 09:23:49  M    Terminated
+10/18/2017 09:23:49  M    task 00000001 cput= 0:00:02
+10/18/2017 09:23:49  M    node0781 cput= 0:00:00 mem=0kb
+10/18/2017 09:23:49  M    node0786 cput= 0:00:01 mem=44880kb
+10/18/2017 09:23:49  M    node0793 cput= 0:00:02 mem=44696kb
+10/18/2017 09:23:49  M    node0779 cput= 0:00:01 mem=85856kb
+10/18/2017 09:23:49  M    node0783 cput= 0:00:01 mem=85604kb
+10/18/2017 09:23:49  M    node0787 cput= 0:00:03 mem=85120kb
+10/18/2017 09:23:49  M    node0789 cput= 0:00:03 mem=85052kb
+10/18/2017 09:23:49  M    node0780 cput= 0:00:02 mem=166000kb
+10/18/2017 09:23:49  M    node0782 cput= 0:00:02 mem=156520kb
+10/18/2017 09:23:49  M    node0790 cput= 0:00:04 mem=157176kb
+10/18/2017 09:23:49  M    node0794 cput= 0:00:01 mem=53456kb
+10/18/2017 09:23:49  M    update_job_usage: CPU usage: 2.134 secs
+10/18/2017 09:23:49  M    update_job_usage: Memory usage: mem=47556kb
+10/18/2017 09:23:49  M    update_job_usage: Memory usage: vmem=47556kb
+10/18/2017 09:23:49  M    no active tasks
+10/18/2017 09:23:49  M    copy file request received
+10/18/2017 09:23:49  M    staged 1 items out over 0:00:00
+10/18/2017 09:23:51  M    no active tasks
+10/18/2017 09:23:51  M    delete job request received
+
+------------------node0779------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 3
+10/18/2017 09:23:47  M    task 0C000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 0C000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 0C000001 cput= 0:00:01
+10/18/2017 09:23:50  M    no active tasks
+
+------------------node0780------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 7
+10/18/2017 09:23:47  M    task 1C000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 1C000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 1C000001 cput= 0:00:02
+10/18/2017 09:23:50  M    no active tasks
+
+------------------node0782------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 8
+10/18/2017 09:23:47  M    task 20000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 20000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 20000001 cput= 0:00:02
+10/18/2017 09:23:50  M    no active tasks
+10/18/2017 09:24:33  M    no active tasks
+
+------------------node0783------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 4
+10/18/2017 09:23:47  M    task 10000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 10000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 10000001 cput= 0:00:01
+10/18/2017 09:23:50  M    no active tasks
+10/18/2017 09:24:08  M    no active tasks
+10/18/2017 09:24:08  M    task 10000001 cput= 0:00:01
+10/18/2017 09:24:09  M    no active tasks
+10/18/2017 09:24:09  M    no active tasks
+
+------------------node0786------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 1
+10/18/2017 09:23:47  M    task 04000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 04000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 04000001 cput= 0:00:01
+10/18/2017 09:23:50  M    no active tasks
+
+------------------node0787------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 5
+10/18/2017 09:23:47  M    task 14000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 14000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 14000001 cput= 0:00:03
+10/18/2017 09:23:50  M    no active tasks
+
+------------------node0789------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 6
+10/18/2017 09:23:47  M    task 18000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 18000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 18000001 cput= 0:00:03
+10/18/2017 09:23:50  M    no active tasks
+
+------------------node0790------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 9
+10/18/2017 09:23:47  M    task 24000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 24000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 24000001 cput= 0:00:04
+10/18/2017 09:23:50  M    no active tasks
+
+------------------node0793------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 2
+10/18/2017 09:23:47  M    task 08000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 08000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 08000001 cput= 0:00:02
+10/18/2017 09:23:50  M    no active tasks
+
+------------------node0794------------------
+
+
+10/18/2017 09:23:46  M    JOIN_JOB as node 10
+10/18/2017 09:23:47  M    task 28000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:23:49  M    task 28000001 terminated
+10/18/2017 09:23:49  M    KILL_JOB received
+10/18/2017 09:23:49  M    task 28000001 cput= 0:00:01
+10/18/2017 09:23:49  M    no active tasks
+10/18/2017 09:23:49  M    task 28000001 cput= 0:00:01
+10/18/2017 09:24:06  M    task 28000001 cput= 0:00:01
+10/18/2017 09:24:07  M    no active tasks
+10/18/2017 09:24:35  M    no active tasks
+
+
+------------------------------- Job Information ------------------------------- 
+
+Job Owner       : hpereira@frontal3 
+Job Project     : 2016038_HPCZENOBE_ULUX 
+Job Name        : vasp2 
+Job Id          : 1474154.frontal2 
+Job Queue       : main_has 
+Job Exit Status : 0 
+
+Resources Requested 
+
+Number of Cores per Job                - NCPUS_PJOB  : 48
+Total Memory per Job                   - MEM_PJOB    : 126000mb
+Placement                                            : free
+Execution Time                         - WALLTIME    : 05:00:00
+
+Resources Used 
+
+Total Memory used                      - MEM              : 1011916kb
+Total CPU Time                         - CPU_Time         : 00:00:22
+Execution Time                         - Wall_Time        : 00:00:05
+Ncpus x Execution Time                 - N_Wall_Time      : 0:04:00
+CPU_Time / N_Wall_Time (%)             - ETA              : 9%
+Number of Mobilized Resources per Job  - NCPUS_EQUIV_PJOB : 48
+Mobilized Resources x Execution Time   - R_Wall_Time      : 0:04:00
+CPU_Time / R_Wall_Time (%)             - ALPHA            : 9%
+
+For metrics definition, please refer to https://tier1.cenaero.be/en/faq-page 
+
+------------------------------------------------------------------------------- 
+

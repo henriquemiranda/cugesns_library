@@ -1,0 +1,140 @@
+[PROLOGUE] Starting prologue on node node0773 at date Wed Oct 18 13:22:26 CEST 2017
+
+------------------------------- PBS server and MOM logs ------------------------------- 
+
+
+------------------frontal2.cenaero.be------------------
+
+Job: 1474714.frontal2
+
+10/18/2017 13:04:35  S    enqueuing into main, state 1 hop 1
+10/18/2017 13:04:35  S    dequeuing from main, state 1
+10/18/2017 13:04:35  S    enqueuing into main_has, state 1 hop 1
+10/18/2017 13:04:35  S    Job Queued at request of hpereira@frontal3, owner = hpereira@frontal3, job name = vasp35, queue = main_has
+10/18/2017 13:04:35  A    queue=main
+10/18/2017 13:04:35  A    queue=main_has
+10/18/2017 13:04:50  L    Job is a top job and will run at Wed Oct 18 17:40:57 2017
+10/18/2017 13:04:59  L    Job is a top job and will run at Wed Oct 18 17:40:57 2017
+10/18/2017 13:05:25  L    Job is a top job and will run at Wed Oct 18 17:40:57 2017
+10/18/2017 13:05:37  L    Job is a top job and will run at Wed Oct 18 17:40:57 2017
+10/18/2017 13:05:47  L    Job is a top job and will run at Wed Oct 18 17:40:57 2017
+10/18/2017 13:06:03  L    Job is a top job and will run at Wed Oct 18 17:40:57 2017
+10/18/2017 13:10:33  L    Job is a top job and will run at Wed Oct 18 17:29:54 2017
+10/18/2017 13:10:43  L    Job is a top job and will run at Wed Oct 18 17:19:02 2017
+10/18/2017 13:10:54  L    Job is a top job and will run at Wed Oct 18 17:19:02 2017
+10/18/2017 13:11:04  L    Job is a top job and will run at Wed Oct 18 17:19:02 2017
+10/18/2017 13:11:32  L    Job is a top job and will run at Wed Oct 18 17:19:02 2017
+10/18/2017 13:11:53  L    Job is a top job and will run at Wed Oct 18 17:17:51 2017
+10/18/2017 13:12:28  L    Job is a top job and will run at Wed Oct 18 17:17:51 2017
+10/18/2017 13:12:36  L    Job is a top job and will run at Wed Oct 18 17:17:51 2017
+10/18/2017 13:12:47  L    Job is a top job and will run at Wed Oct 18 17:17:51 2017
+10/18/2017 13:13:21  L    Job is a top job and will run at Wed Oct 18 16:45:15 2017
+10/18/2017 13:13:30  L    Job is a top job and will run at Wed Oct 18 16:14:21 2017
+10/18/2017 13:20:54  L    Job is a top job and will run at Wed Oct 18 15:56:23 2017
+10/18/2017 13:21:02  L    Job is a top job and will run at Wed Oct 18 15:27:59 2017
+10/18/2017 13:21:22  L    Job is a top job and will run at Wed Oct 18 14:51:44 2017
+10/18/2017 13:21:31  L    Job is a top job and will run at Wed Oct 18 14:51:44 2017
+10/18/2017 13:21:40  L    Job is a top job and will run at Wed Oct 18 14:51:44 2017
+10/18/2017 13:21:47  L    Job is a top job and will run at Wed Oct 18 14:51:44 2017
+10/18/2017 13:21:54  L    Job is a top job and will run at Wed Oct 18 14:51:44 2017
+10/18/2017 13:22:02  L    Job is a top job and will run at Wed Oct 18 14:51:44 2017
+10/18/2017 13:22:02  L    Placement set cenaero=z_ivy has too few free resources or is too small
+10/18/2017 13:22:26  L    Considering job to run
+10/18/2017 13:22:26  L    Job run
+10/18/2017 13:22:26  A    user=hpereira group=2016038_HPCZENOBE_ULUX project=generic jobname=vasp35 queue=main_has ctime=1508324675 qtime=1508324675 etime=1508324675 start=1508325746 exec_host=node0773/6+node0773/7+node0763/1+node0763/2+node0763/3+node0763/4+node0763/5+node0763/6+node0763/7+node0763/8+node0763/9+node0763/10+node0763/11+node0763/14+node0763/15+node0763/16+node0761/0+node0761/1+node0761/3+node0761/4+node0761/5+node0761/6+node0761/7+node0761/8+node0761/9+node0761/10+node0761/11+node0761/12+node0761/13+node0761/14+node0761/15+node0761/16+node0766/1+node0766/2+node0766/3+node0766/4+node0766/5+node0766/6+node0766/7+node0766/8+node0766/9+node0766/10+node0766/11+node0766/12+node0766/13+node0766/14+node0766/15+node0766/16 exec_vnode=(node0773:mem=2688000kb:ncpus=1)+(node0773:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0763:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0761:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1)+(node0766:mem=2688000kb:ncpus=1) Resource_List.mem=126000mb Resource_List.mem_pnode=63000mb Resource_List.model=haswell_fit Resource_List.mpiprocs=48 Resource_List.ncpus=48 Resource_List.ncpus_pnode=24 Resource_List.nodect=48 Resource_List.place=free Resource_List.rncpus=48 Resource_List.select=48:mem=2625MB Resource_List.walltime=05:00:00 resource_assigned.mem=129024000kb resource_assigned.ncpus=48
+10/18/2017 15:04:16  S    Added 48 cpu licenses, total 48
+10/18/2017 15:04:16  S    fully licensed
+
+------------------node0773------------------
+
+Job: 1474714.frontal2
+
+10/18/2017 13:22:26  M    no active tasks
+10/18/2017 13:22:26  M    no active tasks
+10/18/2017 13:22:26  M    running prologue
+10/18/2017 13:22:26  M    Started, pid = 26455
+10/18/2017 15:04:20  M    task 00000001 terminated
+10/18/2017 15:04:20  M    Terminated
+10/18/2017 15:04:21  M    task 00000001 cput= 3:23:43
+10/18/2017 15:04:21  M    node0773 cput= 3:20:14 mem=675404kb
+10/18/2017 15:04:21  M    node0763 cput=23:47:36 mem=3931912kb
+10/18/2017 15:04:21  M    node0761 cput=27:06:35 mem=4506344kb
+10/18/2017 15:04:21  M    node0766 cput=27:11:00 mem=4483776kb
+10/18/2017 15:04:21  M    update_job_usage: CPU usage: 12225.636 secs
+10/18/2017 15:04:21  M    update_job_usage: Memory usage: mem=684892kb
+10/18/2017 15:04:21  M    update_job_usage: Memory usage: vmem=684892kb
+10/18/2017 15:04:21  M    no active tasks
+10/18/2017 15:04:22  M    copy file request received
+10/18/2017 15:04:22  M    staged 1 items out over 0:00:00
+10/18/2017 15:04:22  M    no active tasks
+10/18/2017 15:04:22  M    delete job request received
+
+------------------node0761------------------
+
+
+10/18/2017 13:22:26  M    JOIN_JOB as node 2
+10/18/2017 13:22:27  M    task 08000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 15:04:20  M    task 08000001 terminated
+10/18/2017 15:04:20  M    KILL_JOB received
+10/18/2017 15:04:21  M    task 08000001 cput=27:06:20
+10/18/2017 15:04:22  M    no active tasks
+
+------------------node0763------------------
+
+
+10/18/2017 13:22:26  M    JOIN_JOB as node 1
+10/18/2017 13:22:27  M    task 04000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 15:04:20  M    task 04000001 terminated
+10/18/2017 15:04:20  M    KILL_JOB received
+10/18/2017 15:04:21  M    task 04000001 cput=23:47:23
+10/18/2017 15:04:22  M    no active tasks
+10/18/2017 15:04:23  M    no active tasks
+
+------------------node0766------------------
+
+
+10/18/2017 13:22:26  M    JOIN_JOB as node 3
+10/18/2017 13:22:26  M    no active tasks
+10/18/2017 13:22:26  M    no active tasks
+10/18/2017 13:22:27  M    task 0C000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 15:04:20  M    task 0C000001 terminated
+10/18/2017 15:04:20  M    KILL_JOB received
+10/18/2017 15:04:21  M    task 0C000001 cput=27:10:45
+10/18/2017 15:04:22  M    no active tasks
+10/18/2017 15:04:43  M    no active tasks
+10/18/2017 15:04:43  M    task 0C000001 cput=27:10:45
+10/18/2017 15:04:44  M    task 0C000001 cput=27:10:45
+10/18/2017 15:04:45  M    no active tasks
+
+
+------------------------------- Job Information ------------------------------- 
+
+Job Owner       : hpereira@frontal3 
+Job Project     : 2016038_HPCZENOBE_ULUX 
+Job Name        : vasp35 
+Job Id          : 1474714.frontal2 
+Job Queue       : main_has 
+Job Exit Status : 0 
+
+Resources Requested 
+
+Number of Cores per Job                - NCPUS_PJOB  : 48
+Total Memory per Job                   - MEM_PJOB    : 126000mb
+Placement                                            : free
+Execution Time                         - WALLTIME    : 05:00:00
+
+Resources Used 
+
+Total Memory used                      - MEM              : 13606924kb
+Total CPU Time                         - CPU_Time         : 81:28:57
+Execution Time                         - Wall_Time        : 01:41:56
+Ncpus x Execution Time                 - N_Wall_Time      : 81:32:48
+CPU_Time / N_Wall_Time (%)             - ETA              : 99%
+Number of Mobilized Resources per Job  - NCPUS_EQUIV_PJOB : 48
+Mobilized Resources x Execution Time   - R_Wall_Time      : 81:32:48
+CPU_Time / R_Wall_Time (%)             - ALPHA            : 99%
+
+For metrics definition, please refer to https://tier1.cenaero.be/en/faq-page 
+
+------------------------------------------------------------------------------- 
+

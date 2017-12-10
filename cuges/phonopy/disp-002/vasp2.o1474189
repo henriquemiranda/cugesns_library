@@ -1,0 +1,655 @@
+[PROLOGUE] Starting prologue on node node0781 at date Wed Oct 18 09:24:46 CEST 2017
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    000000338620F710  Unknown               Unknown  Unknown
+vasp               00000000043CB1FE  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    000000338620F710  Unknown               Unknown  Unknown
+vasp               0000000000A815C4  Unknown               Unknown  Unknown
+vasp               0000000000ACF51D  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003385E1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000031AC40F710  Unknown               Unknown  Unknown
+vasp               0000000001778426  Unknown               Unknown  Unknown
+vasp               000000000135A951  Unknown               Unknown  Unknown
+vasp               00000000012EA0DE  Unknown               Unknown  Unknown
+vasp               000000000069C9DE  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000031AC01ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    000000337160F710  Unknown               Unknown  Unknown
+vasp               0000000000A89017  Unknown               Unknown  Unknown
+vasp               0000000000AD202A  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          000000337121ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               00000000006C607A  Unknown               Unknown  Unknown
+vasp               0000000000ACF242  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               00000000006C6643  Unknown               Unknown  Unknown
+vasp               0000000000ACF450  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               000000000069CC71  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               000000000069CDBC  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               0000000000A81BEB  Unknown               Unknown  Unknown
+vasp               0000000000ACF51D  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               000000000069CD41  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    000000337160F710  Unknown               Unknown  Unknown
+vasp               0000000000A88E8A  Unknown               Unknown  Unknown
+vasp               0000000000AD202A  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          000000337121ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    000000337160F710  Unknown               Unknown  Unknown
+vasp               0000000001778420  Unknown               Unknown  Unknown
+vasp               000000000135A951  Unknown               Unknown  Unknown
+vasp               00000000012EA0DE  Unknown               Unknown  Unknown
+vasp               000000000069C9DE  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          000000337121ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               000000000177A9EC  Unknown               Unknown  Unknown
+vasp               000000000135A951  Unknown               Unknown  Unknown
+vasp               00000000012EA0DE  Unknown               Unknown  Unknown
+vasp               0000000000683346  Unknown               Unknown  Unknown
+vasp               0000000000ACF4EF  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               0000000001778420  Unknown               Unknown  Unknown
+vasp               000000000135A951  Unknown               Unknown  Unknown
+vasp               00000000012EA0DE  Unknown               Unknown  Unknown
+vasp               000000000069C9DE  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               000000000177AED0  Unknown               Unknown  Unknown
+vasp               000000000135A951  Unknown               Unknown  Unknown
+vasp               00000000012EA0DE  Unknown               Unknown  Unknown
+vasp               0000000000683346  Unknown               Unknown  Unknown
+vasp               0000000000ACF4EF  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               0000000001778436  Unknown               Unknown  Unknown
+vasp               000000000135A951  Unknown               Unknown  Unknown
+vasp               00000000012EA0DE  Unknown               Unknown  Unknown
+vasp               000000000069CA42  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               000000000177842C  Unknown               Unknown  Unknown
+vasp               000000000135A951  Unknown               Unknown  Unknown
+vasp               00000000012EA0DE  Unknown               Unknown  Unknown
+vasp               000000000069C9DE  Unknown               Unknown  Unknown
+vasp               0000000000AD2057  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               00000000043C67F8  Unknown               Unknown  Unknown
+vasp               000000000515850C  Unknown               Unknown  Unknown
+vasp               00000000051509CE  Unknown               Unknown  Unknown
+vasp               0000000004973A42  Unknown               Unknown  Unknown
+vasp               00000000012DE76E  Unknown               Unknown  Unknown
+vasp               0000000001155CF6  Unknown               Unknown  Unknown
+vasp               00000000011554AD  Unknown               Unknown  Unknown
+vasp               000000000114BEA0  Unknown               Unknown  Unknown
+vasp               0000000000ACF26B  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               00000000043C66D7  Unknown               Unknown  Unknown
+vasp               000000000515850C  Unknown               Unknown  Unknown
+vasp               0000000005155CF3  Unknown               Unknown  Unknown
+vasp               0000000004974DB2  Unknown               Unknown  Unknown
+vasp               00000000012DE91F  Unknown               Unknown  Unknown
+vasp               0000000001155CF6  Unknown               Unknown  Unknown
+vasp               00000000011554AD  Unknown               Unknown  Unknown
+vasp               000000000114BEA0  Unknown               Unknown  Unknown
+vasp               0000000000ACF36F  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               00000000048E4B3C  Unknown               Unknown  Unknown
+vasp               00000000049622B1  Unknown               Unknown  Unknown
+vasp               00000000051506F4  Unknown               Unknown  Unknown
+vasp               0000000004973A42  Unknown               Unknown  Unknown
+vasp               00000000012DE76E  Unknown               Unknown  Unknown
+vasp               0000000001155CF6  Unknown               Unknown  Unknown
+vasp               00000000011554AD  Unknown               Unknown  Unknown
+vasp               000000000114BEA0  Unknown               Unknown  Unknown
+vasp               0000000000ACF26B  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    00000037B5E0F710  Unknown               Unknown  Unknown
+vasp               00000000048E4DCF  Unknown               Unknown  Unknown
+vasp               00000000049622B1  Unknown               Unknown  Unknown
+vasp               0000000005155A14  Unknown               Unknown  Unknown
+vasp               0000000004974DB2  Unknown               Unknown  Unknown
+vasp               00000000012DE91F  Unknown               Unknown  Unknown
+vasp               0000000001155CF6  Unknown               Unknown  Unknown
+vasp               00000000011554AD  Unknown               Unknown  Unknown
+vasp               000000000114BEA0  Unknown               Unknown  Unknown
+vasp               0000000000ACF36F  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          00000037B5A1ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    0000003FCBC0F710  Unknown               Unknown  Unknown
+vasp               00000000048E4F61  Unknown               Unknown  Unknown
+vasp               00000000051585E9  Unknown               Unknown  Unknown
+vasp               0000000005155CF3  Unknown               Unknown  Unknown
+vasp               0000000004974DB2  Unknown               Unknown  Unknown
+vasp               00000000012DE91F  Unknown               Unknown  Unknown
+vasp               0000000001155CF6  Unknown               Unknown  Unknown
+vasp               00000000011554AD  Unknown               Unknown  Unknown
+vasp               000000000114BEA0  Unknown               Unknown  Unknown
+vasp               0000000000ACF36F  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          0000003FCB81ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp               00000000053C56C1  Unknown               Unknown  Unknown
+vasp               00000000053C3E17  Unknown               Unknown  Unknown
+vasp               000000000535E2D4  Unknown               Unknown  Unknown
+vasp               000000000535E0E6  Unknown               Unknown  Unknown
+vasp               000000000530C18F  Unknown               Unknown  Unknown
+vasp               0000000005311F1B  Unknown               Unknown  Unknown
+libpthread.so.0    000000337160F710  Unknown               Unknown  Unknown
+vasp               00000000053B4784  Unknown               Unknown  Unknown
+vasp               000000000328E53E  Unknown               Unknown  Unknown
+vasp               0000000002027CF7  Unknown               Unknown  Unknown
+vasp               0000000004971864  Unknown               Unknown  Unknown
+vasp               00000000043C9B80  Unknown               Unknown  Unknown
+vasp               000000000432D68B  Unknown               Unknown  Unknown
+vasp               00000000020F5042  Unknown               Unknown  Unknown
+vasp               00000000012DEA67  Unknown               Unknown  Unknown
+vasp               000000000118054B  Unknown               Unknown  Unknown
+vasp               000000000117F97E  Unknown               Unknown  Unknown
+vasp               000000000117F288  Unknown               Unknown  Unknown
+vasp               0000000001155CE7  Unknown               Unknown  Unknown
+vasp               00000000011554AD  Unknown               Unknown  Unknown
+vasp               000000000114BEA0  Unknown               Unknown  Unknown
+vasp               0000000000ACF36F  Unknown               Unknown  Unknown
+vasp               0000000000D4CEBE  Unknown               Unknown  Unknown
+vasp               0000000000D739CB  Unknown               Unknown  Unknown
+vasp               0000000000470748  Unknown               Unknown  Unknown
+vasp               000000000044B51E  Unknown               Unknown  Unknown
+libc.so.6          000000337121ED1D  Unknown               Unknown  Unknown
+vasp               000000000044B429  Unknown               Unknown  Unknown
+
+------------------------------- PBS server and MOM logs ------------------------------- 
+
+
+------------------frontal2.cenaero.be------------------
+
+Job: 1474189.frontal2
+
+10/18/2017 09:24:40  S    enqueuing into main, state 1 hop 1
+10/18/2017 09:24:40  S    dequeuing from main, state 1
+10/18/2017 09:24:40  S    enqueuing into main_has, state 1 hop 1
+10/18/2017 09:24:40  S    Job Queued at request of hpereira@frontal3, owner = hpereira@frontal3, job name = vasp2, queue = main_has
+10/18/2017 09:24:40  A    queue=main
+10/18/2017 09:24:40  A    queue=main_has
+10/18/2017 09:24:45  L    Considering job to run
+10/18/2017 09:24:45  L    Job run
+10/18/2017 09:24:46  A    user=hpereira group=2016038_HPCZENOBE_ULUX project=generic jobname=vasp2 queue=main_has ctime=1508311480 qtime=1508311480 etime=1508311480 start=1508311486 exec_host=node0781/1+node0781/2+node0786/10+node0786/11+node0793/3+node0793/4+node0794/0+node0794/3+node0779/2+node0779/3+node0779/8+node0779/9+node0787/6+node0787/7+node0787/8+node0787/9+node0789/2+node0789/3+node0789/4+node0789/9+node0780/2+node0780/3+node0780/4+node0780/5+node0780/6+node0780/7+node0780/8+node0780/9+node0782/1+node0782/10+node0782/11+node0782/12+node0782/13+node0782/14+node0782/15+node0782/16+node0790/2+node0790/10+node0790/11+node0790/12+node0790/13+node0790/14+node0790/15+node0790/16+node0783/0+node0783/3+node0783/4+node0783/10 exec_vnode=(node0781:mem=2688000kb:ncpus=1)+(node0781:mem=2688000kb:ncpus=1)+(node0786:mem=2688000kb:ncpus=1)+(node0786:mem=2688000kb:ncpus=1)+(node0793:mem=2688000kb:ncpus=1)+(node0793:mem=2688000kb:ncpus=1)+(node0794:mem=2688000kb:ncpus=1)+(node0794:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0779:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0787:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0789:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0780:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0782:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0790:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1)+(node0783:mem=2688000kb:ncpus=1) Resource_List.mem=126000mb Resource_List.mem_pnode=63000mb Resource_List.model=haswell_fit Resource_List.mpiprocs=48 Resource_List.ncpus=48 Resource_List.ncpus_pnode=24 Resource_List.nodect=48 Resource_List.place=free Resource_List.rncpus=48 Resource_List.select=48:mem=2625MB Resource_List.walltime=05:00:00 resource_assigned.mem=129024000kb resource_assigned.ncpus=48
+10/18/2017 09:25:38  S    delete job request received
+10/18/2017 09:25:38  S    Job sent signal TermJob on delete
+10/18/2017 09:25:38  S    Job to be deleted at request of hpereira@frontal3
+10/18/2017 09:25:38  A    requestor=hpereira@frontal3
+
+------------------node0781------------------
+
+Job: 1474189.frontal2
+
+10/18/2017 09:24:46  M    no active tasks
+10/18/2017 09:24:46  M    running prologue
+10/18/2017 09:24:46  M    Started, pid = 5079
+10/18/2017 09:25:38  M    signal job request received
+10/18/2017 09:25:38  M    signal job with TermJob
+10/18/2017 09:25:38  M    task 00000001 terminated
+10/18/2017 09:25:52  M    task 00000001 force exited
+10/18/2017 09:25:52  M    Terminated
+10/18/2017 09:25:52  M    task 00000001 cput= 0:01:36
+10/18/2017 09:25:52  M    node0781 cput= 0:01:03 mem=304096kb
+10/18/2017 09:25:52  M    node0786 cput= 0:01:35 mem=532548kb
+10/18/2017 09:25:52  M    node0793 cput= 0:01:35 mem=532076kb
+10/18/2017 09:25:52  M    node0794 cput= 0:01:33 mem=560040kb
+10/18/2017 09:25:52  M    node0779 cput= 0:03:10 mem=1060176kb
+10/18/2017 09:25:52  M    node0787 cput= 0:03:05 mem=1059948kb
+10/18/2017 09:25:52  M    node0789 cput= 0:03:10 mem=1060144kb
+10/18/2017 09:25:52  M    node0780 cput= 0:05:53 mem=2133464kb
+10/18/2017 09:25:52  M    node0782 cput= 0:06:25 mem=2103812kb
+10/18/2017 09:25:52  M    node0790 cput= 0:06:21 mem=2104736kb
+10/18/2017 09:25:52  M    node0783 cput= 0:03:09 mem=1058884kb
+10/18/2017 09:25:52  M    update_job_usage: CPU usage: 96.065 secs
+10/18/2017 09:25:52  M    update_job_usage: Memory usage: mem=638028kb
+10/18/2017 09:25:52  M    update_job_usage: Memory usage: vmem=638028kb
+10/18/2017 09:25:52  M    no active tasks
+10/18/2017 09:25:53  M    copy file request received
+10/18/2017 09:25:53  M    staged 1 items out over 0:00:00
+10/18/2017 09:25:53  M    no active tasks
+10/18/2017 09:25:53  M    delete job request received
+
+------------------node0779------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 4
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 10000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 10000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 10000001 cput= 0:03:10
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0780------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 7
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 1C000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 1C000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 1C000001 cput= 0:05:53
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0782------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 8
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 20000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 20000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 20000001 cput= 0:06:25
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0783------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 10
+10/18/2017 09:24:47  M    no active tasks
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 28000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 28000001 terminated
+10/18/2017 09:25:49  M    no active tasks
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 28000001 cput= 0:03:09
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0786------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 1
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 04000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 04000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 04000001 cput= 0:01:35
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0787------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 5
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 14000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 14000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 14000001 cput= 0:03:05
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0789------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 6
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 18000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 18000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 18000001 cput= 0:03:11
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0790------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 9
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 24000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 24000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 24000001 cput= 0:06:21
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0793------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 2
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 08000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 08000001 terminated
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 08000001 cput= 0:01:36
+10/18/2017 09:25:53  M    no active tasks
+
+------------------node0794------------------
+
+
+10/18/2017 09:24:46  M    JOIN_JOB as node 3
+10/18/2017 09:24:48  M    no active tasks
+10/18/2017 09:24:48  M    task 0C000001 started, /softs/intel/impi/5.0.2.044/intel64/bin/pmi_proxy
+10/18/2017 09:25:38  M    task 0C000001 terminated
+10/18/2017 09:25:49  M    no active tasks
+10/18/2017 09:25:52  M    KILL_JOB received
+10/18/2017 09:25:52  M    task 0C000001 cput= 0:01:32
+10/18/2017 09:25:53  M    no active tasks
+10/18/2017 09:26:36  M    no active tasks
+
+
+------------------------------- Job Information ------------------------------- 
+
+Job Owner       : hpereira@frontal3 
+Job Project     : 2016038_HPCZENOBE_ULUX 
+Job Name        : vasp2 
+Job Id          : 1474189.frontal2 
+Job Queue       : main_has 
+Job Exit Status : 271 
+
+Resources Requested 
+
+Number of Cores per Job                - NCPUS_PJOB  : 48
+Total Memory per Job                   - MEM_PJOB    : 126000mb
+Placement                                            : free
+Execution Time                         - WALLTIME    : 05:00:00
+
+Resources Used 
+
+Total Memory used                      - MEM              : 12843856kb
+Total CPU Time                         - CPU_Time         : 00:37:32
+Execution Time                         - Wall_Time        : 00:01:07
+Ncpus x Execution Time                 - N_Wall_Time      : 0:53:36
+CPU_Time / N_Wall_Time (%)             - ETA              : 70%
+Number of Mobilized Resources per Job  - NCPUS_EQUIV_PJOB : 48
+Mobilized Resources x Execution Time   - R_Wall_Time      : 0:53:36
+CPU_Time / R_Wall_Time (%)             - ALPHA            : 70%
+
+For metrics definition, please refer to https://tier1.cenaero.be/en/faq-page 
+
+------------------------------------------------------------------------------- 
+

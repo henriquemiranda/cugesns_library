@@ -1,0 +1,17 @@
+------------------ Work dir --------------------
+/home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002
+------------------ Job Info --------------------
+jobid : 1474154.frontal2
+jobname : vasp2
+job type : PBS_BATCH
+submit dir : /home/unilu/phyms/hpereira/cuges/vasp/hse06/phonons/disp-002
+queue : main
+user : hpereira
+threads : 1
+ running on   48 total cores
+ distrk:  each k-point on   16 cores,    3 groups
+ distr:  one band on    1 cores,   16 groups
+ using from now: INCAR     
+ vasp.5.3.3 18Dez12 (build Nov 13 2015 09:58:40) complex                        
+  
+done!

@@ -1,0 +1,25 @@
+SYSTEM = CGS
+
+#structure relaxation
+#ISIF=3
+#IBRION=2
+#NSW = 200
+EDIFF = 0.1E-04
+
+#planewaves
+ENCUT = 400
+ISMEAR =  1
+SIGMA  =  0.1
+
+#type of calculation
+LDIAG = .TRUE.
+TIME = 0.4
+GGA = PE
+LHFCALC = .TRUE.
+AEXX = 0.25
+HFSCREEN = 0.2
+ALGO = D
+PRECFOCK = F
+
+#paralelization
+KPAR = 3
