@@ -126,10 +126,10 @@ cusns = read_ingredients('cusns')
 
 steps = np.linspace(0,1,10)
 
-def calculate_freqs(tag):
+def calculate_freqs(tag, s1=cusns, s2=cuges):
     phfreqs = []
     for x in steps:
-        phonon = mix_phonon(cusns, cuges, x, **options[tag])
+        phonon = mix_phonon(s1, s2, x, **options[tag])
         freqs = phonon.get_frequencies((0,0,0))*THzToCm
         phfreqs.append(freqs)
         print("%5.3lf %12.8lf" % (x, freqs[-1]))
@@ -163,67 +163,45 @@ def plot_frequencies(phfreqs,ax=plt,save=False):
 
     wmin = phfreqs[-1,-3]
     wmax = phfreqs[ 0,-3]
-    ax.axhline(wmin,ls='--',lw=1)
-    ax.axhline(wmax,ls='--',lw=1)
-    ax.text(-.20,wmax,"%6.2lf"%wmax)
-    ax.text(1.01,wmin,"%6.2lf"%wmin)
+    ax.axhline(wmin,ls='--',lw=1,c='r')
+    ax.axhline(wmax,ls='--',lw=1,c='r')
+    ax.text(.01,wmax+2,"%6.2lf"%wmax)
+    ax.text(.78,wmin+2,"%6.2lf"%wmin)
     print(wmax-wmin)
 
     for phfreq in phfreqs:
-        ax.plot(steps,phfreqs,c='C0')
+        ax.plot(steps,phfreqs,c='C0',alpha=0.3)
 
     ax.set_xlim(min(steps),max(steps))
     ax.set_ylim(200,450)
     ax.set_xlabel('x')
     if save: plt.savefig('cuges_hse06_%s_freqs.pdf'%tag)
     return ax
-   
-size=4 
-fig = plt.figure(figsize=(size*3,size))
-fig.suptitle("CuGeS to Cu(Sn$_{1-x}$Ge$_x$)S HSE06")
+
+size=3   
+fig = plt.figure(figsize=(size*3,size+2))
+#fig.suptitle("CuGeS to Cu(Sn$_{1-x}$Ge$_x$)S HSE06")
 
 ax = plt.subplot(1,3,1)
-ax.set_title('all')
-phfreqs = calculate_freqs('all')
-plot_spectra(phfreqs,ax)
-
-ax = plt.subplot(1,3,2)
-ax.set_title('forces')
-phfreqs = calculate_freqs('forces')
-plot_spectra(phfreqs,ax)
-
-ax = plt.subplot(1,3,3)
-ax.set_title('masses')
-phfreqs = calculate_freqs('masses')
-plot_spectra(phfreqs,ax)
-plt.subplots_adjust(wspace=0.25,bottom=0.15)
-plt.savefig('spectra_3colum.pdf')
-plt.show()
-
-
-
-fig = plt.figure(figsize=(size*3,size))
-fig.suptitle("CuGeS to Cu(Sn$_{1-x}$Ge$_x$)S HSE06")
-
-ax = plt.subplot(1,3,1)
-ax.set_title('all')
+ax.set_title('a) interpolation of forces\n and masses')
 ax.set_ylabel('frequencies cm$^{-1}$')
 phfreqs = calculate_freqs('all')
 plot_frequencies(phfreqs,ax)
 
 ax = plt.subplot(1,3,2)
-ax.set_title('forces')
-ax.set_ylabel('frequencies cm$^{-1}$')
+ax.set_title('b) interpolation of forces only\n using the masses of CTS')
+#ax.set_ylabel('frequencies cm$^{-1}$')
 #ax.get_yaxis().set_visible(False)
 phfreqs = calculate_freqs('forces')
 plot_frequencies(phfreqs,ax)
 
 ax = plt.subplot(1,3,3)
-ax.set_title('masses')
-ax.set_ylabel('frequencies cm$^{-1}$')
+ax.set_title('c) interpolation of masses only\n using the forces of CGS')
+#ax.set_ylabel('frequencies cm$^{-1}$')
 #ax.get_yaxis().set_visible(False)
-phfreqs = calculate_freqs('masses')
+phfreqs = calculate_freqs('masses', s1=cuges, s2=cusns)
+phfreqs.reverse()
 plot_frequencies(phfreqs,ax)
-plt.subplots_adjust(wspace=0.35,bottom=0.15)
+plt.subplots_adjust(left=0.1, right=0.95,wspace=0.2,bottom=0.15,top=0.8)
 plt.savefig('freqs_3colum.pdf')
 plt.show()
